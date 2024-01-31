@@ -2,14 +2,14 @@
 
 Libraries
 
-pandas
-matplotlib
-keras
-tensorflow
-scikit-learn
-Neural Network
+* pandas
+* matplotlib
+* keras
+* tensorflow
+* scikit-learn
+* Neural Network
 
 
 CNN Network
 
-Accuracy: 90.48
+* Accuracy: 90.48
